@@ -1,0 +1,115 @@
+.topnav a {
+    font-size: 30px;
+    color: red;
+    width: 1200px;
+    text-align: center;
+    padding: 5px 50px 5px 50px;
+    background-color: aqua;
+}
+
+
+h1 {
+    font-family: serif;
+    font-style: italic;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    width: 1200px;
+    background-color: white;
+    border:black;
+    text-align: center;
+    text-shadow: 1px 1px 2px black;
+    outline-style: double;
+    }
+
+}
+.img {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    grid-gap: 10px;
+    margin: 5% 5% 5% 5%;
+
+}
+h2 {
+    font-family: serif;
+    font-style: italic;
+    font-size: 30px;
+    color: black;
+    width: 1200px;
+    background-color: white;
+    border: 1px solid black;
+    text-align: center;
+    
+}
+
+
+h3 {
+    font-family: serif;
+    font-style: italic;
+    font-size: 30px;
+    color: black;
+    width: 1200px;
+    background-color: white;
+    border: 1px solid black;
+    text-align: center;
+    
+}
+
+h4 {
+    font-family: serif;
+    font-style: italic;
+    font-size: 30px;
+    color: black;
+    width: 1200px;
+    background-color: white;
+    border: 1px solid black;
+    text-align: center;
+    
+}
+.image .wrapper{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    grid-gap:10px;
+    margin: 5% 5%;
+}
+.box{
+    max-width: 100%;
+}
+
+h5 {
+    font-family: serif;
+    font-style: italic;
+    font-size: 30px;
+    color: black;
+    width: 1200px;
+    background-color: white;
+    border: 1px solid black;
+    text-align: center;
+
+}
+
+h6 {
+    font-family: serif;
+    font-style: italic;
+    font-size: 30px;
+    color: black;
+    width: 1200px;
+    background-color: white;
+    border: 1px solid black;
+    text-align: center;
+}
+
+
+
+.aboutme ul li {
+    font: serif;
+    font-size: 20;
+}
+
+@media screen and (min-width: 360px){
+    body {
+        background: white;
+        font-family: sans-serif;
+    }}
+    
